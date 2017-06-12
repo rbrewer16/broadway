@@ -39,10 +39,12 @@ p{
   font-size: 14px;
 }
 footer{
-  background-image: url("../images/the-flatiron-building.png");
-  background-size: cover;
-  background-position: bottom;
+  background-color: dimgray;
   font-family: Helvetica;
+  font-size: 11px;
   color: white;
   text-align: left;
+}
+footer a{
+  color: white;
 }
